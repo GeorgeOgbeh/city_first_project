@@ -1,0 +1,5 @@
+# am just write display pattern.
+
+      Fire:red
+      water:blue
+      trees:green          
